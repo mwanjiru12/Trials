@@ -97,7 +97,7 @@ nav ul li a {
 }
 
 #portfolio {
-    background-color: #0fbfbf; 
+    background-color: palevioletred; 
     padding: 15px;
     border-radius: 0.5%;
     text-align: center;
@@ -114,7 +114,7 @@ nav ul li a {
 }
 
 #contact {
-    background-color: #ffbc4b; 
+    background-color: white; 
     padding: 15px;
     border-radius: 0.5%;
     text-align: center;
@@ -124,8 +124,7 @@ nav ul li a {
     padding: 12px 36px;
     text-transform: uppercase;
     transition: background-color 0.2s ease-in-out;
-     background-color: #0fbfbf; 
-
+     background-color:  pink
 }
 
 footer {
