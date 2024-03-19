@@ -122,7 +122,7 @@ nav ul li a {
     text-align: center;
 }
 
-.td-btn {
+button {
     padding: 12px 36px;
     text-transform: uppercase;
     transition: background-color 0.2s ease-in-out;
